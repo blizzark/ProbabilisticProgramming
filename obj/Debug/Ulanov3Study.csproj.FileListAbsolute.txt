@@ -1,0 +1,10 @@
+C:\Project\Ulanov3Study\Ulanov3Study\bin\Debug\Ulanov3Study.exe.config
+C:\Project\Ulanov3Study\Ulanov3Study\bin\Debug\Ulanov3Study.exe
+C:\Project\Ulanov3Study\Ulanov3Study\bin\Debug\Ulanov3Study.pdb
+C:\Project\Ulanov3Study\Ulanov3Study\obj\Debug\Ulanov3Study.csprojAssemblyReference.cache
+C:\Project\Ulanov3Study\Ulanov3Study\obj\Debug\Ulanov3Study.Form1.resources
+C:\Project\Ulanov3Study\Ulanov3Study\obj\Debug\Ulanov3Study.Properties.Resources.resources
+C:\Project\Ulanov3Study\Ulanov3Study\obj\Debug\Ulanov3Study.csproj.GenerateResource.cache
+C:\Project\Ulanov3Study\Ulanov3Study\obj\Debug\Ulanov3Study.csproj.CoreCompileInputs.cache
+C:\Project\Ulanov3Study\Ulanov3Study\obj\Debug\Ulanov3Study.exe
+C:\Project\Ulanov3Study\Ulanov3Study\obj\Debug\Ulanov3Study.pdb
